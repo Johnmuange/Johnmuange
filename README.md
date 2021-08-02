@@ -1,4 +1,4 @@
-### Hi there I'm John a software engineer & founder @3techagency 👋
+### Hi there I'm John a software engineer & founder @3techagency
 
 
 - 🔭 I’m currently working on building a data visualization dashboard for my company
