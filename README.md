@@ -1,5 +1,6 @@
 ### Hi there I'm John a software engineer & founder @3techagency
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M45JNFX)
 
 - 🔭 I’m currently working on building a data visualization dashboard for my company
 - 🌱 I’m currently learning Angular
