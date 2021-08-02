@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on building a data visualization dashboard for my company
 - 🌱 I’m currently learning Angular
-- 👯 I’m looking to collaborate on a software engineer
+- 👯 I’m looking to collaborate on front-end projects
 - 🤔 I’m looking for help with nothing at the moment :)
 - 💬 Ask me about Tech
 - 📫 How to reach me: email: johnmuange@hotmail.com 
